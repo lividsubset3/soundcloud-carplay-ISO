@@ -5,6 +5,6 @@ To start things off
 - [ ] How to Develop an App for CarPlay [Programming Guide Apple](https://developer.apple.com/carplay/documentation/CarPlay-App-Programming-Guide.pdf)
   * - [ ] Create a MAC VM on my Windows Machine'
   * - [ ] Download XCode and Get Apple Dev Account
-  * - [ ]
+  * - [ ] Get a simulator working.
 - [ ] How to reverse engineer Souncloud Code
 - [ ] Start putting them both together
