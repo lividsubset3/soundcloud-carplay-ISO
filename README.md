@@ -5,5 +5,5 @@ To start things off
 - [ ] How to Develop an App for CarPlay | [Programming Guide Apple](https://developer.apple.com/carplay/documentation/CarPlay-App-Programming-Guide.pdf) | [Developer Docs](https://developer.apple.com/documentation/carplay/)
   * - [ ] Get a simulator working
   * - [ ] Get the basics working
-- [ ] How to reverse engineer Souncloud Code
+- [ ] Reverse Engineer shoundcloud
 - [ ] Start putting them both together
