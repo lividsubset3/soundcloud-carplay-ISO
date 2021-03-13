@@ -4,10 +4,8 @@
 ## To start things off
 
 ### Develop an App for CarPlay | [Programming Guide Apple](https://developer.apple.com/carplay/documentation/CarPlay-App-Programming-Guide.pdf) | [Developer Docs](https://developer.apple.com/documentation/carplay/)
-- [x] Mac only development, wont work on windows
-- [ ] Get a simulator working
-- [ ] [React Native CarPlay](https://github.com/birkir/react-native-carplay)
-- [ ] Get the basics working
+- [x] Get a simulator working
+- [ ] Xcode Create simple app
 
 
 ### Reverse Engineer shoundcloud
