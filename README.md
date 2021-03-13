@@ -7,4 +7,5 @@ To start things off
   * - [ ] Get a simulator working
   * - [ ] Get the basics working
 - [ ] Reverse Engineer shoundcloud
+  * - [ ] Soundcloud API [Soundcloud API](https://developers.soundcloud.com/docs)
 - [ ] Start putting them both together
