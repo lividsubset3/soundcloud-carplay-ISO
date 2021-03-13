@@ -6,7 +6,8 @@
 ### Develop an App for CarPlay | [Programming Guide Apple](https://developer.apple.com/carplay/documentation/CarPlay-App-Programming-Guide.pdf) | [Developer Docs](https://developer.apple.com/documentation/carplay/)
 - [x] Get a simulator working
 - [ ] Xcode Create simple app
-- [ ] Xcode Create display on carplay
+- [ ] Xcode Apply the app to display something on CarPlay
+- [ ] Implement Soundcloud simple like list
 
 
 ### Reverse Engineer shoundcloud
