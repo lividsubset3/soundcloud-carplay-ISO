@@ -15,3 +15,7 @@
 
 ### Start putting them both together
 - [ ] (Start here)
+
+
+### Possible Addition to Dev
+- [ ] [Huskey](https://typicode.github.io/husky/#/)
