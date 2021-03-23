@@ -15,7 +15,7 @@
 
 
 ### Start putting them both together
-- [ ] (Start here)
+- [ ] (Complete 1 and 2)
 
 
 ### Possible Addition to Dev
