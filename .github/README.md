@@ -12,11 +12,11 @@
 
 ### Reverse Engineer shoundcloud
 - [ ] [Soundcloud API](https://developers.soundcloud.com/docs) (If Possible)
-- [ ] 
+- [ ] Understand the HTTP API w/ JavaScript
 
 
 ### Start putting them both together
-- [ ] (Complete 1 and 2)
+- [ ] integrate the Javascript API with swift
 
 
 ### Possible Addition to Dev
