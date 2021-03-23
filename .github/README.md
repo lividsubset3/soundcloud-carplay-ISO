@@ -15,7 +15,7 @@
 - [ ] Understand the HTTP API w/ JavaScript
 
 
-### Start putting them both together
+### Cross Integration
 - [ ] integrate the Javascript API with swift
 
 
