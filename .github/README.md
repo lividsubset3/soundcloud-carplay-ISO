@@ -6,10 +6,12 @@
 ### Develop an App for CarPlay | [Programming Guide Apple](https://developer.apple.com/carplay/documentation/CarPlay-App-Programming-Guide.pdf) | [Developer Docs](https://developer.apple.com/documentation/carplay/)
 - [x] Get a simulator working
 - [ ] Create basic app with swift
-	- [ ] Create Basic UI
-	- [ ] Selectable Tabs
+	- [x] Create Basic Login
+	- [ ] Have login load to a basic page
+	- [ ] Selectable Pages
 	- [ ] Bar Display for curent music
 - [ ] Basic dsiplay on CarPlay
+	- [ ] Create Basic GUI in Carpl4y
 - [ ] Implement Soundcloud simple like list
 
 

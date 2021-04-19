@@ -19,7 +19,7 @@ struct ContentView: View {
     @State var password: String = ""
 
     @State var authDidFail: Bool = false
-    @State var authDidAcc:  Bool = false
+    @State var authDidAcc: Bool = false
 
     var body: some View {
         ZStack {
@@ -95,12 +95,12 @@ struct PasswordSecureField: View {
 struct LoginButtonContent: View {
     var body: some View {
         return Text("LOGIN")
-            .padding()
-            .foregroundColor(.white)
-            .font(.headline)
-            .frame(width: 220, height: 60)
-            .background(Color.green)
-            .cornerRadius(15.0)
+                .padding()
+                .foregroundColor(.white)
+                .font(.headline)
+                .frame(width: 220, height: 60)
+                .background(Color.green)
+                .cornerRadius(15.0)
     }
 }
 
